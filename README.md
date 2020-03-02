@@ -7,13 +7,8 @@ This is a website where users order different sizes of pizzas with one or more t
 
 ## Screenshots
 ![screenshot1](https://user-images.githubusercontent.com/60643930/75681249-40d03400-5ca4-11ea-887e-4f1179101a28.jpg)
-
-<img width="1432" alt="Screen Shot 2020-02-17 at 11 26 21 PM" src="https://user-images.githubusercontent.com/28457081/75680855-7a546f80-5ca3-11ea-94ea-6f33c74bcb56.png">
-<img src="images/screenshots/screenshot1.jpg" width=300px >img042.jpg
-<img src="images/screenshots/screenshot2.jpg" width=300px>
-<img src="images/screenshots/screenshot3.jpg" width=300px>
-<img src="images/screenshots/screenshot4.jpg" width=300px>
-<img src="images/screenshots/screenshot5.jpg" width=300px>
+![screenshot1](https://user-images.githubusercontent.com/60643930/75681249-40d03400-5ca4-11ea-887e-4f1179101a28.jpg)
+![screenshot4](https://user-images.githubusercontent.com/60643930/75681503-c94ed480-5ca4-11ea-890e-e596dff94f14.jpg)
 
 ## Setup Instructions
 * git clone https://github.com/levy-jpg/Levys-Pizzeria.git- on your terminal.
