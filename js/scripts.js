@@ -20,7 +20,7 @@ Total.prototype.finalTotal = function () {
 };
 
 
-var sizePrice = [1200, 900, 650]
+var sizePrice = [1400, 950, 650]
 var deliverPrices = [0, 300];
 $(document).ready(function () {
     $('form#myForm').submit(function (event) {
