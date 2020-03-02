@@ -17,3 +17,27 @@ function Total(price, quantity, delivery) {
 Total.prototype.finalTotal = function () {
     return this.price * this.quantity + this.delivery;
 };
+
+
+var sizePrice = [1200, 900, 650]
+var deliverPrices = [0, 300];
+$(document).ready(function () {
+    $('form#myForm').submit(function (event) {
+        event.preventDefault();
+        var pizzaType = $('#type').val();
+
+        var pizzaSize = parseInt($('#size').val());
+
+        var pizzaCrust = $('#crust').val();
+
+        var pizzaTop = $('#top').val();
+
+        var pizzaQty = parseInt($('#qty').val());
+
+        var pizzaPick = parseInt($('#pick').val());
+
+
+        var price = sizePrice[pizzaSize - 1];
+
+
+        var DeliveryCost = deliverPrices[pizzaPick - 1];
