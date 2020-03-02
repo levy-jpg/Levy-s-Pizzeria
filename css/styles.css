@@ -53,3 +53,37 @@
         padding: 14px 16px;
         text-decoration: none;
       }
+
+      li a:hover {
+        background-color:brown;
+      }
+      .content p{
+        color:whitesmoke;
+        font-weight: bolder;
+        font-size: 30px;
+        font-family: 'Lobster Two', cursive;
+       }
+       .come h3{
+         padding-top: 3%;
+         padding-left: 8%;
+       } 
+      .mouse-icon{
+        padding-left: 15%;
+    }
+    .come{
+      border: 3px solid burlywood;
+      width:110px;
+      margin-left: 50px;
+    }
+    .story h1{
+      text-decoration-line: underline;
+      text-align: center;
+    }
+    .story{
+        background-color:rgba(173, 105, 16, 0.829);
+    }
+    .story p{
+      text-align: center;
+      font-family: 'Cookie', cursive;
+      font-size: 30px;
+    }
