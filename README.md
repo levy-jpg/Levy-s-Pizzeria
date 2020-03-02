@@ -7,7 +7,7 @@ This is a website where users order different sizes of pizzas with one or more t
 
 ## Screenshots
 ![screenshot1](https://user-images.githubusercontent.com/60643930/75681249-40d03400-5ca4-11ea-887e-4f1179101a28.jpg)
-![screenshot1](https://user-images.githubusercontent.com/60643930/75681249-40d03400-5ca4-11ea-887e-4f1179101a28.jpg)
+![screenshot3](https://user-images.githubusercontent.com/60643930/75681545-dff52b80-5ca4-11ea-8469-d0431632b6a8.jpg)
 ![screenshot4](https://user-images.githubusercontent.com/60643930/75681503-c94ed480-5ca4-11ea-890e-e596dff94f14.jpg)
 
 ## Setup Instructions
