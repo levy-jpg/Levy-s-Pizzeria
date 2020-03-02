@@ -13,8 +13,8 @@
     .logo img{
         width: 15%;
     }
-
-
+    
+    
     .logo{
         box-shadow: 3px 3px 5px transparent;
         width:100%;
@@ -53,7 +53,7 @@
         padding: 14px 16px;
         text-decoration: none;
       }
-
+      
       li a:hover {
         background-color:brown;
       }
@@ -87,3 +87,130 @@
       font-family: 'Cookie', cursive;
       font-size: 30px;
     }
+    
+      .img-fluid{
+        opacity:1;
+        display:block;
+        margin: 5px;
+        margin-bottom: 15px;
+        margin-left: 80px;
+      }
+    
+      #menu h1{
+        margin-left: 80px;
+      }
+    
+      
+      .text {
+        background-color:transparent;
+        color: black;
+        padding: 16px 32px;
+        text-align: center;
+    
+      }
+      
+      .row{
+        display: flex;
+        left:50%;
+      } 
+      #menu h2{
+        font-family: 'Bree Serif', serif;
+        text-align: center;
+        font-size:50px;
+    
+      }
+      #menu{
+        background-color:rgba(173, 105, 16, 0.829);
+      }
+    
+      .img-fluid{
+        width:246px;
+        height:205px;
+      }
+      .book img{
+        float:left;
+        width:75vh;;
+        height:75vh;
+      }
+     input[type=text], select {
+        width: 100%;
+        
+        
+      }
+        
+      input[type=submit] {
+       width:100%;
+      } 
+    
+      .form-group{
+        width:100%;
+        font-size:20px;
+        margin-bottom:20px;
+      }
+      #order{
+        margin-top: 2%;
+        background-color: rgba(173, 105, 16, 0.829)
+      }
+      #order h1 {
+        text-align: center;
+        text-decoration: underline;
+        padding-bottom: 2px;
+      }
+    
+      #text-center h2{
+        padding-top:2px;
+      }
+      #myForm{
+        float:right;
+        margin-left:350px;
+      }
+    
+      
+       #contact{
+        background-color: rgba(173, 105, 16, 0.829) ;
+        margin:50px;
+        
+      }
+    
+      .map{
+        margin-top:50px;
+        height:50vh;
+      }
+    
+      #text-cont{
+        text-align: center;
+      }
+      #contact input[type=text], select, textarea {
+        /* width: 100%; */
+        padding: 5px;
+        border: 1px solid #ccc;
+        border-radius: 2px;
+        box-sizing: border-box;
+        margin-top: 3px;
+        margin-bottom: 6px;
+        resize: vertical;
+      }
+      
+       #contact input[type=submit] {
+        background-color: rgb(76, 130, 175);
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    
+      } 
+      
+       #contact input[type=submit]:hover {
+        background-color: chocolate;
+      }
+      
+      
+      
+      footer{
+        border:0px peachpuff;
+        background-color: beige;
+        padding-top: 5px;
+        color: blue;
+        font-size: 20px;
+        text-align: center;
+      }  
