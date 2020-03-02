@@ -6,7 +6,8 @@ A restaurant website that allows you to view different pizza options then allows
 This is a website where users order different sizes of pizzas with one or more toppings. The user is also able to be delivered the pizza to their location.
 
 ## Screenshots
-<img src="images/screenshots/screenshot1.jpg" width=300px >
+<img width="1432" alt="Screen Shot 2020-02-17 at 11 26 21 PM" src="https://user-images.githubusercontent.com/28457081/75680855-7a546f80-5ca3-11ea-94ea-6f33c74bcb56.png">
+<img src="images/screenshots/screenshot1.jpg" width=300px >img042.jpg
 <img src="images/screenshots/screenshot2.jpg" width=300px>
 <img src="images/screenshots/screenshot3.jpg" width=300px>
 <img src="images/screenshots/screenshot4.jpg" width=300px>
