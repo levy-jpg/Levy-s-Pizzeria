@@ -41,3 +41,21 @@ $(document).ready(function () {
 
 
         var DeliveryCost = deliverPrices[pizzaPick - 1];
+
+
+
+        newOrder = new Order(pizzaType, pizzaSize, pizzaCrust, pizzaTop);
+        newTotal = new Total(price, pizzaQty, DeliveryCost);
+        if (pizzaPick===1){
+        alert("Your oder is: " + newOrder.fullOrder() + ".continue to see your total bill");
+        alert("your bill is: " + newTotal.finalTotal() + ".You will receive your pizza in the next few minutes");
+        }else{
+            if(pizzaPick===2){
+                prompt("Enter where you want your pizza to be delivered");
+                alert("Your order has been received and it will be delivered. Continue to see your order details");
+                alert("Your oder is: " + newOrder.fullOrder() + ".continue to see your total bill");
+                alert("your bill is: " + newTotal.finalTotal() + ".You pizza will be delevered in the next 30minutes");
+            }
+        }
+
+    });
