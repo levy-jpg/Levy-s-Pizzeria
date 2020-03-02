@@ -1,0 +1,15 @@
+/* body{
+  overflow-x: hidden;
+} */
+.land{
+    background-image:url("https://st2.depositphotos.com/1684571/6470/i/950/depositphotos_64702939-stock-photo-pizza-with-seafood-on-wood.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:95vh;
+    }
+    .landoverlay{
+    background-color:transparent;
+    } 
+    .logo img{
+        width: 15%;
+    }
